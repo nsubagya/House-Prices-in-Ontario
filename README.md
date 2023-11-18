@@ -1,2 +1,3 @@
 # House-Prices-in-Ontario
-listing prices of houses in Ontario.
+This dataset captures property listing prices in Ontario, primarily houses, gathered over a brief period in July 2016. The dataset encompasses essential information such as the property's price in dollars, its address, and geographical coordinates (latitude and longitude) obtained through the Google Geocoding service. Additionally, the dataset includes the area name of each property, determined using the Google Geocoding service. While lacking time-related data, this dataset serves as a valuable starting point for delving into the dynamics of the housing market in Canada, particularly focusing on the issue of inflated prices. The initial goal is to create an enriched and interactive heatmap, providing insights into house prices across various neighborhoods or areas.
+kaggle link to the dataset is https://www.kaggle.com/datasets/mnabaee/ontarioproperties/data.
